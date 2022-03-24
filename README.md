@@ -7,16 +7,16 @@ An arbitrary custom ESLint configuration for Reactjs projects
 1.Install peer dependencies:
 
 ```bash
-npx install-peerdeps --dev eslint-config-pp
+npx install-peerdeps --dev eslint-config-paulopreto
 ```
 
-2.Extend eslint-config-pp in your eslint file
+2.Extend eslint-config-paulopreto in your eslint file
 
 -  create `.eslintrc` file with the following content:
 
 ```json
 {
-  "extends": ["eslint-config-pp"]
+  "extends": ["eslint-config-paulopreto"]
 }
 ```
 
