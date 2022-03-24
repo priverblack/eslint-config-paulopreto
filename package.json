@@ -1,0 +1,55 @@
+{
+  "name": "eslint-config-paulopreto",
+  "version": "0.0.1",
+  "description": "An arbitrary custom ESLint configuration for Reactjs projects",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx --quiet"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
+    "@typescript-eslint/parser": "^5.16.0",
+    "eslint": "^8.9.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "eslint-plugin-storybook": "^0.5.7",
+    "prettier": "^2.6.0",
+    "typescript": "^4.6.2"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
+    "@typescript-eslint/parser": "^5.16.0",
+    "eslint": "^8.9.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.29.4",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-simple-import-sort": "^7.0.0",
+    "eslint-plugin-storybook": "^0.5.7",
+    "prettier": "^2.6.0",
+    "typescript": "^4.6.2"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "prettier",
+    "react",
+    "typescript"
+  ],
+  "author": "Paulo Preto",
+  "homepage": "https://github.com/paulopretoEI/eslint-config-paulopreto",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulopretoEI/eslint-config-paulopreto"
+  },
+  "license": "MIT"
+}
