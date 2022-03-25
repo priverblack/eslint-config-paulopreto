@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-paulopreto",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An arbitrary custom ESLint configuration for Reactjs projects",
   "main": "index.js",
   "scripts": {
