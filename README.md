@@ -1,6 +1,8 @@
 # ESLint + Typescript + Prettier
 
-An arbitrary custom ESLint configuration for Reactjs projects
+An arbitrary custom ESLint configuration for React projects
+
+Ideal for projects using [TypeScript](https://www.typescriptlang.org/), [Jest](https://jestjs.io/) with [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ## Usage
 
